@@ -1,5 +1,15 @@
 # 💫 About Me:
-🙋‍♀️ About Me  <br>- 👩‍💻 BSc. IT student from Nepal  <br>- 🔭 Currently learning Full Stack Development  <br>- 💡 I work with Python, C#, JavaScript, HTML, CSS, PHP & MySQL  <br>- 🎯 Focused on building real, functional projects  <br>- 🧠 Exploring AI/ML fundamentals  <br>- 🚀 Improving problem-solving + clean code habits  <br>- ⚡ Fun fact: I break things just to learn how they work  
+
+
+- 👩‍💻 BSc. IT Student | Aspiring Software Engineer
+- 💼 Plugin Developer Intern at Dearhive
+- 🛠️ Building WordPress plugins and Magento extensions
+- 🌐 Passionate about Full Stack Development and Software Engineering
+- 💡 Exploring AI/ML, SaaS development, and system design
+- 🌱 Growing through open-source contributions and real-world projects
+- 🧠 Curious about how technology works behind the scenes
+- 🎯 Focused on building scalable, meaningful software solutions
+- ⚡ Fun fact: I don't just use technology — I like understanding how it's built.
 
 
 ## 🌐 Socials:
